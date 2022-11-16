@@ -1,0 +1,14 @@
+.not-found
+{
+    position: absolute;
+    top: 15%;
+    left: 40%;
+    margin: auto;
+}
+.list-table
+{
+    position: absolute;
+    top: 11%;
+    width: -webkit-fill-available;
+    padding: 0 20px 0 20px;
+}

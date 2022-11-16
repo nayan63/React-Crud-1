@@ -1,7 +1,9 @@
 .App {
   text-align: center;
 }
-
+.main-section{
+  background-color: #61dafb;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +37,15 @@
   to {
     transform: rotate(360deg);
   }
+}
+.nav-link
+{
+  text-decoration: none;
+}
+.nav-link p
+{
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: "Times New Roman","Serif";
+  color: #61dafb;
 }
